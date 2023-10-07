@@ -54,6 +54,3 @@ Additional fields exist in the database tables.
 
 Contributing
 Feel free to contribute to this project by forking the repository and creating pull requests for improvements.
-
-License
-This project is licensed under the MIT License.
